@@ -1,6 +1,6 @@
 {
-  "name": "@whiskeysockets/baileys",
-  "version": "1.0.0",
+  "name": "@jack-pro/baileys",
+  "version": "7.1.0",
   "description": "WhatsApp API",
   "keywords": [
     "whatsapp",
